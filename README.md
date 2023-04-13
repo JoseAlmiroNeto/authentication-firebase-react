@@ -11,7 +11,7 @@
 <li>TypeScript</li>
 <li>TailwindCss</li>
 <li>Firebase</li>
-<li>Viteb</li>
+<li>Vite</li>
 </ul>
 
 <h2>Como contribuir</h2>
